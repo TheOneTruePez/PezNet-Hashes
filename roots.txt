@@ -1,0 +1,2 @@
+# PezPC root keys. kid  sha256-of-raw-ed25519-public-key  role
+# PezPC release keys. kid  sha256-of-p256-subjectpublickeyinfo  role
